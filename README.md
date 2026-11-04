@@ -144,3 +144,13 @@ Contributions and documentation improvements should follow the Git workflow:
 
 All documentation changes should be reviewed to maintain clarity, consistency, and accuracy of project requirements.
 
+## 11. Future Enhancements
+
+The Pharmacy Management System may be extended with the following features in future versions:
+
+- **Low Stock Alerts:** Notify pharmacy staff when medicine quantities fall below a predefined threshold.
+- **Expiry Date Monitoring:** Track medicine expiry dates and notify staff about medicines approaching expiration.
+- **Sales Reports:** Generate daily, weekly, and monthly sales reports.
+- **User Authentication:** Provide secure login and role-based access for administrators and pharmacy staff.
+
+
